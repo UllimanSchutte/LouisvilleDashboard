@@ -126,7 +126,7 @@ textarea {
     postition: relative;
     display: block;
     float:left;
-    margin: .15% 0 .15% .2%;
+    margin: .10% 0 .10% .2%;
     height: 100%;
 }
 .col:first-child { margin-left: 0; }
