@@ -188,6 +188,27 @@ width: 100%;
     left: 13.7%;
     width:83.9%;
 }
+.counter {
+    position: absolute;
+    color: black;
+    font-size: 2rem;
+    top:13.5%;
+    height:5%;
+    right:12.75%;
+
+}
+#credentials {
+    background-color: black;
+    text-align: center;
+    opacity: .65;
+    color: white;
+    position: absolute;
+    bottom: 5%;
+    height:auto;
+    left: 13.7%;
+    width:83.9%;
+    line-height: .5rem;
+}
 #spbpImg{
     position: relative;
     height: 40%;
