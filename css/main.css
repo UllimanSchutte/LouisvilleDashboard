@@ -167,6 +167,7 @@ width: 100%;
     width: inherit;
 }
 .overlayContainer iframe{
+    background-color: white;
     position: absolute;
     top: 6%;
     height:87%;
