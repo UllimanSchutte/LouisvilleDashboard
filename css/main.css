@@ -192,10 +192,10 @@ width: 100%;
 .counter {
     position: absolute;
     color: black;
-    font-size: 2rem;
-    top:13.5%;
+    font-size: 1.75em;
+    top:14.5%;
     height:5%;
-    right:12.75%;
+    right:13%;
 
 }
 #credentials {
